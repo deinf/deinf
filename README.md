@@ -73,7 +73,7 @@
 ## :fire: My Stats :
 
 <div id="stats" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=deinf&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=deinf&show_icons=true&theme=dark&background=000000"/>
 <img src="http://github-readme-streak-stats.herokuapp.com?user=deinf&theme=dark&background=000000"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deinf&theme=dark&background=000000&langs_count=6)](https://github.com/anuraghazra/github-readme-stats"></img>
 </div>
