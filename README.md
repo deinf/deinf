@@ -14,10 +14,10 @@
 
 <div id="badges" align="center">
   
-   <a href="">
+   <a href="https://www.linkedin.com/in/danangekasaputra">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=linkedin&logoColor=FFFFFF&label=" alt="Linkedin Badge"/>
   </a>
-  <a>
+  <a href="mailto: danangekasaputra@outlook.com">
   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Email&color=EC1346&logo=Gmail&logoColor=FFFFFF&label=" alt="Email Badge"/>
   </a>
   
